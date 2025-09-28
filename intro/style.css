@@ -1,0 +1,15 @@
+* {
+  background-color: orangered !important;
+}
+
+.shared-styling {
+  color: black;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: cyan;
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
