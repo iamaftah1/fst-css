@@ -1,0 +1,14 @@
+div {
+  width: 200px;
+  height: 200px;
+  border: solid aqua 12px;
+  border-radius: 20px;
+}
+
+#element-1,
+#element-2,
+#element-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
