@@ -1,0 +1,12 @@
+h1 {
+  color: purple;
+  text-align: center;
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-size: 100px;
+  text-shadow: 5px 5px 3px purple;
+}
+
+p {
+  text-indent: 100px;
+}
